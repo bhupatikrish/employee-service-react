@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: krishna
+Build-Jdk: 9.0.4
+Implementation-Title: employee-service-react
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.krishna.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee-service-react
+Created-By: Maven Integration for Eclipse
+
